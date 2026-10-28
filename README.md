@@ -17,7 +17,7 @@ All numbers below come straight from **Meta Ads Manager** and **Google Analytics
 | 👥 Reach (largest account) | **33.7M people** |
 | 💸 Average CPM | **~17,100 VND** |
 | 🖱️ 2026 CTR / CPC | **~2.0% / ~1,000 VND** |
-| 🏷️ Industries | F&B chain, restaurant, fashion, footwear |
+| 🏷️ Industries | F&B chain, restaurant |
 
 ---
 
@@ -100,15 +100,6 @@ All numbers below come straight from **Meta Ads Manager** and **Google Analytics
 - Testing a **Messenger booking campaign** (10/2026): 74 conversations started at ~199K VND each — much more expensive than engagement campaigns, so this channel is still being optimised.
 
 ![Hồ Sen](images/ads-manager-hosen-2026.png)
-
----
-
-## Other clients
-
-| Client | Industry | Period |
-|---|---|---|
-| Vy Store | Fashion | 1 year |
-| Dirty Shoes | Footwear | 3 months |
 
 ---
 
